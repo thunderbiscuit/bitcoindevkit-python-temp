@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 README = (pathlib.Path(__file__).parent / "./README.md").read_text()
 
 setup(
-    name='bitcoindevkit',
+    name='bdkpython',
     version='0.0.1',
     description="Python language bindings for the bitcoindevkit",
     long_description=README,

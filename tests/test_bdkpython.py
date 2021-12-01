@@ -1,4 +1,4 @@
-import bitcoindevkit as bdk
+import bdkpython as bdk
 
 
 def test_hello_bitcoindevkit():
